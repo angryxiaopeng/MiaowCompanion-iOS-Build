@@ -1,0 +1,15 @@
+.DS_Store
+DerivedData/
+build/
+*.ipa
+*.mp4
+*.mov
+*.jpg
+*.jpeg
+*.png
+*.p12
+*.pk8
+*.mobileprovision
+*_code_only_local.app/
+__pycache__/
+*.pyc
