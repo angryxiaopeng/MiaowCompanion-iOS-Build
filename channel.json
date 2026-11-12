@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "pack_id": "miaow-golden-cat",
+  "sequence": 2,
+  "version": "2026.11.12.2",
+  "manifest_url": "https://kinetic-beam-4z8yv7d.shipstatic.com/motion-pack.json",
+  "manifest_sha256": "2b081d6dbe32f73c08dd847570e3df267dbd2a2c53f81a13e4281215517fc793",
+  "released_beijing": "2026-11-12T15:33:55.370015+08:00",
+  "notes": "在线更新功能启用包，正式仍为16个动作，没有新增生成。",
+  "source_claimed": false,
+  "source_initial_expiry": 1794727832,
+  "client_updates_data_only": true
+}
