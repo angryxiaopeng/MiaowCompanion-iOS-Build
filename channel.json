@@ -1,0 +1,77 @@
+{
+  "schema": 1,
+  "app_id": "miaow-software",
+  "sequence": 4,
+  "web": {
+    "latest": {
+      "id": "web-1.2.2",
+      "version": "1.2.2",
+      "bundle_sha256": "79983cb880568e1ab4e75caabce52641d58f4f2253c4a2f999345c7db6596059",
+      "bytes": 94668,
+      "bundle_url": "https://bright-sphere-pr63ats.shipstatic.com/bundles/web-1.2.2.json"
+    },
+    "previous": {
+      "id": "web-1.2.0",
+      "version": "1.2.0",
+      "bundle_url": "https://bright-sphere-pr63ats.shipstatic.com/bundles/web-1.2.0.json",
+      "bundle_sha256": "cc58d5895ea1cae4227684f11a96faf3aa6f188cdf32e664f890f21229ffb469",
+      "bytes": 94383
+    },
+    "entry": "https://bright-sphere-pr63ats.shipstatic.com/"
+  },
+  "android": {
+    "latest": {
+      "version": "1.2.0",
+      "version_code": 2,
+      "package": "cn.miaow.online",
+      "bytes": 25413633,
+      "sha256": "8456c0b0c20d58b66047ca42140a2baf5cad5ba943597af3d190ec06e9ccbfde",
+      "filename": "MiaowOnline_Android_2_update.apk",
+      "parts": [
+        {
+          "url": "https://cracked-mote-p2487sh.shipstatic.com/MiaowOnline_Android_2_update.apk.part0.bin",
+          "bytes": 13631488,
+          "sha256": "f8df7a6c733c609ed5f31c920b2ecbe921410f151e49d96c33064cf5a9b4a484"
+        },
+        {
+          "url": "https://cracked-mote-p2487sh.shipstatic.com/MiaowOnline_Android_2_update.apk.part1.bin",
+          "bytes": 11782145,
+          "sha256": "167deb4c43c6717f738dc05ed16f6b2c87b5ebb8f0e3f64325148ed2065d4bed"
+        }
+      ]
+    },
+    "recovery": {
+      "version": "1.1.0-restored",
+      "version_code": 3,
+      "package": "cn.miaow.online",
+      "bytes": 25413633,
+      "sha256": "0a9ff81f0c05c8f65cce134c4c3bdcf6493443cae0c76595b81748eed1d75288",
+      "filename": "MiaowOnline_Android_3_recovery.apk",
+      "parts": [
+        {
+          "url": "https://cracked-mote-p2487sh.shipstatic.com/MiaowOnline_Android_3_recovery.apk.part0.bin",
+          "bytes": 13631488,
+          "sha256": "13bb20ef0005a80bd72329ffa4824724d2b9cf64d0c2fbdbd6a950cdcdab7860"
+        },
+        {
+          "url": "https://cracked-mote-p2487sh.shipstatic.com/MiaowOnline_Android_3_recovery.apk.part1.bin",
+          "bytes": 11782145,
+          "sha256": "7e4e19faeb4f5bd75e09ac55fc22b9f0bace83479755ce2bb975c43c78996528"
+        }
+      ],
+      "restores_feature_version": "1.1.0",
+      "from_version_codes": [
+        2
+      ],
+      "retains_updater": true
+    },
+    "download_page": "https://cracked-mote-p2487sh.shipstatic.com/"
+  },
+  "published_beijing": "2026-11-13T17:46:33.852385+08:00",
+  "notes": [
+    "Public data-only software-updates branch; no source/media/credentials in this channel",
+    "Motion-data update branch remains independent sequence3",
+    "Android installer version codes2 and3; future upgrade code>3",
+    "WebKit offline cold reload not qualified; no wand enabled"
+  ]
+}

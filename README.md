@@ -1,9 +1,3 @@
-# MiaowCompanion iOS code-only build
+# 猫猫小憩软件更新通道
 
-This proposed public repository contains the generic SwiftUI/WebKit app shell and a loopback-only asset server. It contains no real pet images, videos, Apple IDs, passwords, signing keys, or provisioning profiles.
-
-A standard `macos-latest` GitHub-hosted runner compiles an unsigned ARM64 iPhone binary. The job is skipped if the repository is private. It does not contact Apple signing services or request paid runners. Code-only build results are published as release files, not Actions cache/artifacts.
-
-The build-stage page is intentionally a generic placeholder. The companion's real interface and private media are assembled locally after compilation. The release ZIP is **not an installable final pet app**. The final IPA still needs owner-side signing on Windows or macOS and actual iPhone validation.
-
-The workflow has a20-minute timeout and only one concurrent run for a branch. Compilation success must be verified from the actual run before any installable-app claim.
+此分支仅保存公开软件版本元数据；不放媒体、APK、私钥或工作流。客户端免GitHub登录读取channel.json。软件通道与motion-updates动作数据通道独立；更新软件序号应严格递增。Android恢复包使用更高安装号承载前版功能，保留原在线包签名与更新入口；下一新版须高于已发布恢复包安装号。网页保留前一版代码与兼容设置，软件包先SHA校验再启用。
