@@ -1,13 +1,13 @@
 {
   "schema": 1,
   "pack_id": "miaow-golden-cat",
-  "sequence": 3,
-  "version": "2026.11.13.3",
-  "manifest_url": "https://volatile-hole-8v8vkbx.shipstatic.com/motion-pack.json",
-  "manifest_sha256": "d71c192d1d538e4c37422f275c45b3435cd8361a6b6250328c6a2f82b0dcd572",
-  "released_beijing": "2026-11-13T13:27:59.027209+08:00",
-  "notes": "新增即梦真实洗脸和甩头抖毛，各3秒；正式18个动作。原16条保留，新2条进入随机待机。",
+  "sequence": 4,
+  "version": "2026.11.16.4",
+  "manifest_url": "https://encoded-fader-jhy4bh7.shipstatic.com/motion-pack.json",
+  "manifest_sha256": "dadf41e49c6422913ec1bb8bb2222eae1e189e406325735b1fe54b0b0a8e10b0",
+  "released_beijing": "2026-11-16T15:28:11+08:00",
+  "notes": "恢复已到期的第3版增量下载源，仍为18个既有动作；本次未新增生成。洗脸、甩头抖毛文件SHA不变。",
   "source_claimed": false,
-  "source_initial_expiry": 1794806590,
+  "source_initial_expiry": 1795073052,
   "client_updates_data_only": true
 }
