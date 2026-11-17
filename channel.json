@@ -1,13 +1,13 @@
 {
   "schema": 1,
   "pack_id": "miaow-golden-cat",
-  "sequence": 4,
-  "version": "2026.11.16.4",
-  "manifest_url": "https://encoded-fader-jhy4bh7.shipstatic.com/motion-pack.json",
-  "manifest_sha256": "dadf41e49c6422913ec1bb8bb2222eae1e189e406325735b1fe54b0b0a8e10b0",
-  "released_beijing": "2026-11-16T15:28:11+08:00",
-  "notes": "恢复已到期的第3版增量下载源，仍为18个既有动作；本次未新增生成。洗脸、甩头抖毛文件SHA不变。",
+  "sequence": 5,
+  "version": "2026.11.17.5",
+  "manifest_url": "https://lucid-dust-tqm725n.shipstatic.com/motion-pack.json",
+  "manifest_sha256": "664771a7df977ac3145d29a5698fbe00f8f9d19df91bb655f31e95de88395a34",
+  "released_beijing": "2026-11-17T09:07:16.615306+08:00",
+  "notes": "新增碰胡须·眨眼歪头、额外待机转头张望，各3秒；共20条，原30项完成19，另加1待机。效果待主人评审。",
   "source_claimed": false,
-  "source_initial_expiry": 1795073052,
+  "source_initial_expiry": 1795136793,
   "client_updates_data_only": true
 }
