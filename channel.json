@@ -1,13 +1,13 @@
 {
   "schema": 1,
   "pack_id": "miaow-golden-cat",
-  "sequence": 6,
-  "version": "2026.11.18.6",
-  "manifest_url": "https://pulsing-neon-nmx7553.shipstatic.com/motion-pack.json",
-  "manifest_sha256": "429d10fe476ef76b6a31921c084275d59da485a176c2dffff2e6e4a6294519f3",
-  "released_beijing": "2026-11-18T12:01:54.404849+08:00",
-  "notes": "新增互动碰肉垫3秒、待机挠痒4秒；共22条，原30项完成21，另1条待机。主人自然度验收待完成。",
+  "sequence": 7,
+  "version": "2026.11.20.7",
+  "manifest_url": "https://ghosted-seed-x9w6rj3.shipstatic.com/motion-pack.json",
+  "manifest_sha256": "289facba2d5d132567085d6c03b3510bce5f9809b34cb7a59d3366155f556683",
+  "released_beijing": "2026-11-20T09:55:10.573171+08:00",
+  "notes": "新增互动碰尾巴根（3秒），共23个动作。坐着摇尾巴仍待修正出框。",
   "source_claimed": false,
-  "source_initial_expiry": 1795233599,
+  "source_initial_expiry": 1795398869,
   "client_updates_data_only": true
 }
