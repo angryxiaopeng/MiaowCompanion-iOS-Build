@@ -1,13 +1,13 @@
 {
   "schema": 1,
   "pack_id": "miaow-golden-cat",
-  "sequence": 7,
-  "version": "2026.11.20.7",
-  "manifest_url": "https://ghosted-seed-x9w6rj3.shipstatic.com/motion-pack.json",
-  "manifest_sha256": "289facba2d5d132567085d6c03b3510bce5f9809b34cb7a59d3366155f556683",
-  "released_beijing": "2026-11-20T09:55:10.573171+08:00",
-  "notes": "新增互动碰尾巴根（3秒），共23个动作。坐着摇尾巴仍待修正出框。",
+  "sequence": 8,
+  "version": "2026.11.23.8",
+  "manifest_url": "https://woven-firefly-2hc98ff.shipstatic.com/motion-pack.json",
+  "manifest_sha256": "319a2cd5c3b3e660a897ef61af657fa5f04d4a515eb9e9092e2857423088af79",
+  "released_beijing": "2026-11-23T09:14:33.961136+08:00",
+  "notes": "新增碰肚子和坐着摇尾巴。设置中下载动作包，共25条。",
   "source_claimed": false,
-  "source_initial_expiry": 1795398869,
+  "source_initial_expiry": 1795655655,
   "client_updates_data_only": true
 }
