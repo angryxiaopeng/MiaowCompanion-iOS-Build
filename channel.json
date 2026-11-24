@@ -1,13 +1,13 @@
 {
   "schema": 1,
   "pack_id": "miaow-golden-cat",
-  "sequence": 8,
-  "version": "2026.11.23.8",
-  "manifest_url": "https://woven-firefly-2hc98ff.shipstatic.com/motion-pack.json",
-  "manifest_sha256": "319a2cd5c3b3e660a897ef61af657fa5f04d4a515eb9e9092e2857423088af79",
-  "released_beijing": "2026-11-23T09:14:33.961136+08:00",
-  "notes": "新增碰肚子和坐着摇尾巴。设置中下载动作包，共25条。",
+  "sequence": 9,
+  "version": "2026.11.24.9",
+  "manifest_url": "https://strong-array-qc73ysb.shipstatic.com/motion-pack.json",
+  "manifest_sha256": "e481034e8034f6570d2c54ed8523b11c27e7501e96e591580484927a1934789d",
+  "released_beijing": "2026-11-24T09:11:51.206663+08:00",
+  "notes": "新增碰后腿与扑光点。设置中下载动作包，共27条。",
   "source_claimed": false,
-  "source_initial_expiry": 1795655655,
+  "source_initial_expiry": 1795741869,
   "client_updates_data_only": true
 }
