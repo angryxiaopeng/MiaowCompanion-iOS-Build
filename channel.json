@@ -1,13 +1,13 @@
 {
   "schema": 1,
   "pack_id": "miaow-golden-cat",
-  "sequence": 10,
-  "version": "2026.11.25.10",
-  "manifest_url": "https://neutral-loop-8jy2e8z.shipstatic.com/motion-pack.json",
-  "manifest_sha256": "8b3798a3cad8babbe53a6c139ddf791bfe3c661330a27c8eb27737645093acd8",
-  "released_beijing": "2026-11-25T09:17:31.066444+08:00",
-  "notes": "新增待机动作「追尾巴」，共28条。",
+  "sequence": 11,
+  "version": "2026.11.26.11",
+  "manifest_url": "https://glitchy-void-k8ar3dh.shipstatic.com/motion-pack.json",
+  "manifest_sha256": "34df6e7fe5a21b97abfc3f2f8e5c7c4a56fd9b900e2399522f8042b0f857434e",
+  "released_beijing": "2026-11-26T08:58:48.036686+08:00",
+  "notes": "新增彩蛋「舒服到翻肚皮」，共29条。",
   "source_claimed": false,
-  "source_initial_expiry": 1795828625,
+  "source_initial_expiry": 1795913902,
   "client_updates_data_only": true
 }
